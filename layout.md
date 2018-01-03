@@ -12,3 +12,5 @@ figures/figure_2_education
 npjsj839fco.html
 figures/figure_2_income
 iqs4099gfug.html
+figures/table_7_health
+1bsrfj8j6eg.html
