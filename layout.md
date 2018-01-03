@@ -10,3 +10,5 @@ figures/figure_1_longevity
 1a3na29tspg.html
 figures/figure_2_education
 npjsj839fco.html
+figures/figure_2_income
+iqs4099gfug.html
