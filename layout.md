@@ -8,3 +8,5 @@ figures/table_4_longevity
 ev5v1kttmq8.html
 figures/figure_1_longevity
 1a3na29tspg.html
+figures/figure_2_education
+npjsj839fco.html
