@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/figure_2_income1/figure_2_income1.png
+  - path: figures/figure_2_income1/figure_2_income_education.png
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/176950/articles/213251/master/file/figures/figure_2_income1/figure_2_income1.png"
     folder_url: "/users/176950/articles/213251/master/folder/figures/figure_2_income1"
+    url: "/users/176950/articles/213251/master/file/figures/figure_2_income1/figure_2_income_education.png"
