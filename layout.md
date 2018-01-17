@@ -11,6 +11,5 @@ figures/figure_1_longevity
 figures/figure_2_income1
 1q4nopvbvk8.html
 npjsj839fco.html
-iqs4099gfug.html
 figures/table_7_health
 1bsrfj8j6eg.html
